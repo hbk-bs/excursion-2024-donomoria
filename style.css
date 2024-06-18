@@ -13,6 +13,11 @@ h4 { font-size: 1.5em; }
 h5 { font-size: 1.25em; }
 h6 { font-size: 1em; }
 
+img {
+  border-radius: 15px;
+}
+
+
 *{
   box-sizing: border-box;
   gap: 1rem;
